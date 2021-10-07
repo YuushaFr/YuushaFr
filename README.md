@@ -19,32 +19,34 @@ Those are the language and plateforms i like to play with.
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Raspberry](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-<img align='left' src='https://media1.giphy.com/media/mBeo9uc3enSOewr1MQ/giphy.gif?cid=790b7611930304f851f86ed5e3e0450c2f46a833e6983c08&rid=giphy.gif' width='140'> \
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
+<img align='left' src='https://media1.giphy.com/media/mBeo9uc3enSOewr1MQ/giphy.gif?cid=790b7611930304f851f86ed5e3e0450c2f46a833e6983c08&rid=giphy.gif' width='130'> \
 <br><br>
 <br><br>
 
 <img align='right' src='https://media2.giphy.com/media/yvADZHbqf3Kng1kNob/giphy.gif?cid=790b76114f4832ce03339f097510d0691f65a4384ee933db&rid=giphy.gif' width='50'>
 
 
-
 ## My stats !
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=YuushaFr&show_icons=true&theme=radical) 
 
-My most used languages are : 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuushaFr&layout=compact)](https://github.com/Knackie/github-readme-stats)
+<p align='center'>
+  <img src='https://github-readme-stats.vercel.app/api?username=YuushaFr&show_icons=true&theme=tokyonight'> 
+  <br><br>
+  My most used languages are :
+  <br>
+  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=YuushaFr&layout=compact&theme=tokyonight'>
+</p>
 
 
 ## My contributions
 
-<p align="center">
+<p align='center'>
   <a href="https://git.io/streak-stats">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=YuushaFr&theme=react&background=0d1117&border=666">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=YuushaFr&theme=tokyonight&background=0d1117&border=666">
   </a>
   <br>
   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img src="https://activity-graph.herokuapp.com/graph?username=YuushaFr&theme=react-dark&hide_border=true">
+    <img src="https://activity-graph.herokuapp.com/graph?username=YuushaFr&theme=rogue&hide_border=true">
   </a>
 </p>
